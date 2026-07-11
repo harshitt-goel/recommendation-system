@@ -1,0 +1,14 @@
+# Dataset
+data/
+
+# Training outputs
+results/
+
+# Python
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Environment
+.env
